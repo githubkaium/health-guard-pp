@@ -1,0 +1,65 @@
+[
+    {
+        "name": "General Health Care",
+        "id": "c01",
+        "fee": 15000,
+        "description": "",
+        "img": "https://i.ibb.co/hKZJZZb/service-01.png"
+    },
+    {
+        "name": "Cardiology",
+        "id": "c02",
+        "fee": 12000,
+        "description": "Our comprehensive heart services include general and preventive cardiology, cardiac testing and imaging, specialized cardiology and cardiac surgery.",
+        "img": "https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2019/11/29144739/HR-career.png"
+    },
+    {
+        "name": "Dental Services",
+        "id": "c03",
+        "fee": 14000,
+        "description": "",
+        "img": "https://i.ibb.co/64BmdJg/service-03.png"
+    },
+    {
+        "name": "Pediatrics",
+        "id": "c04",
+        "fee": 12000,
+        "description": "We partner with families to deliver expert, compassionate care to infants, children and teens.",
+        "img": "https://i.ibb.co/P57F3B5/service-04.png"
+    },
+    {
+        "name": "Cancer Care",
+        "id": "c05",
+        "fee": 14000,
+        "description": "Patients can expect comprehensive and individualized cancer care, delivered in convenient locations across Southern California.",
+        "img": "https://i.ibb.co/pybPPjF/service-05.png"
+    },
+    {
+        "name": "Orthopedics",
+        "id": "c06",
+        "fee": 13000,
+        "description": "In your body we try fixed your organ damages.",
+        "img": "https://i.ibb.co/n7fDKw6/service-06.png"
+    },
+    {
+        "name": "Women's Health",
+        "id": "c07",
+        "fee": 10000,
+        "description": "Our women’s health specialists provide comprehensive services, including OB/GYN, heart and mental health services.",
+        "img": "https://i.ibb.co/6v6nx4j/service-07.png"
+    },
+    {
+        "name": "Transplant Services",
+        "id": "c08",
+        "fee": 12000,
+        "description": "We are expert in Transplant your valuable organ",
+        "img": "https://i.ibb.co/XY1v819/service-08.png"
+    },
+    {
+        "name": "Neurosurgery",
+        "id": "c09",
+        "fee": 10000,
+        "description": "Our top-rated neurosurgeons use advanced imaging and surgical techniques to treat neurological conditions, such as brain tumors and traumatic brain injury.",
+        "img": "https://i.ibb.co/xYbm0v1/service-09.png"
+    }
+]

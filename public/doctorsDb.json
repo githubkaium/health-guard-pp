@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Dr. Martin",
+        "id": "pt01",
+        "gender": "Male",
+        "age": 45,
+        "expertize": "Cardiology",
+        "img": "https://i.ibb.co/DYfWmnL/doctor-01.png"
+    },
+    {
+        "name": "Dr. Rebecca Jeen",
+        "id": "pt02",
+        "gender": "Female",
+        "age": 52,
+        "expertize": "Dentist",
+        "img": "https://i.ibb.co/r2fQ2Zs/doctor-02.png"
+    },
+    {
+        "name": "Dr. Trinity Fil",
+        "id": "pt03",
+        "gender": "Female",
+        "age": 31,
+        "expertize": "Women's Health ",
+        "img": "https://i.ibb.co/YT80Wc1/doctor-03.png"
+    },
+    {
+        "name": "Dr. Luis Paul",
+        "id": "pt04",
+        "gender": "Male",
+        "age": 66,
+        "expertize": "Neurosurgery",
+        "img": "https://i.ibb.co/fGw3yx8/doctor-04.png"
+    },
+    {
+        "name": "Dr. Pavel Sarker",
+        "id": "pt05",
+        "gender": "Male",
+        "age": 49,
+        "expertize": "Transplant Expert",
+        "img": "https://i.ibb.co/pWPL1LH/doctor-05.png"
+    },
+    {
+        "name": "Dr. Navin Abdel",
+        "id": "pt06",
+        "gender": "Male",
+        "age": 29,
+        "expertize": " General Health Care",
+        "img": "https://i.ibb.co/d6PB07D/doctor-06.png"
+    },
+    {
+        "name": " Dr. Ryche Han",
+        "id": "pt07",
+        "gender": "Female",
+        "age": 42,
+        "expertize": " Pediatrician",
+        "img": "https://i.ibb.co/WypxNnF/doctor-07.png"
+    },
+    {
+        "name": "Dr. Samuel Shun",
+        "id": "pt08",
+        "gender": "Male",
+        "age": 72,
+        "expertize": "Orthopedist",
+        "img": "https://i.ibb.co/5cQ7fh5/doctor-08.png"
+    },
+    {
+        "name": "Dr. Arvik Sing",
+        "id": "pt09",
+        "gender": "Male",
+        "age": 33,
+        "expertize": "Cancer Expert",
+        "img": "https://i.ibb.co/N7w5N11/doctor-09.png"
+    }
+]

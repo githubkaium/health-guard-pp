@@ -1,0 +1,10 @@
+.services-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+}
+
+h2 {
+    color:turquoise;
+    text-shadow: 2px 2px 3px #000000;
+}
