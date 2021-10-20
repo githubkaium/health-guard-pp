@@ -8,3 +8,15 @@ h2 {
     color:turquoise;
     text-shadow: 2px 2px 3px #000000;
 }
+
+@media only screen and (max-width:688px) {
+    .services-container{
+        grid-template-columns: repeat(1, 1fr);
+    }  
+}
+
+@media only screen and (min-width:689px) and (max-width:991px) {
+    .services-container{
+        grid-template-columns: repeat(2, 1fr);
+    }   
+}
