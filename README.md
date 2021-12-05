@@ -4,8 +4,7 @@
 * A health care service website
 * Provide different services
 * Required Log in to Appointment
-* Also have log out system
-* Google sign in enable
+* Google sign in enabled
 
 ## Code Link:
 https://github.com/Programming-Hero-Web-Course3/healthcare-related-website-githubkaium
